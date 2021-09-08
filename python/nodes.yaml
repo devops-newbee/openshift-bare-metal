@@ -1,6 +1,6 @@
 bootstrap_kvm:
   - name: bootstrap
-    ip_os: 192.168.46.19
+    ip_os: 192.168.32.36
 control_nodes:
   - name: etcd-0
     ip_os: 192.168.46.21
